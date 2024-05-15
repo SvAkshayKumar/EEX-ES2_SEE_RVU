@@ -3,7 +3,7 @@ import network
 import socket
 from time import sleep
 import machine
-from machine import Pin, PWM, ADC
+from machine import Pin, PWM
 import time
 import utime,time
 from machine import Pin, I2C
